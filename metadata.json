@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Ekskresi Manusia - IPA SMP Kelas 8",
+  "description": "Media pembelajaran interaktif materi Sistem Ekskresi Manusia IPA SMP Kelas 8 lengkap meliputi Ginjal, Kulit, Paru-Paru, dan Hati dengan struktur organ, fungsi, mekanisme, zat sisa, gangguan/penyakit, simulasi interaktif, dan kuis evaluasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
